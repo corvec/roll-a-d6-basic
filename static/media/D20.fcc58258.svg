@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2.331688in" height="2.440335in" version="1.1" viewBox="407.917816 196.371399 307.782867 322.124268">
+  <g id="Pen" opacity="1.000">
+    <path opacity="1.000" fill="none" stroke="#000000" stroke-width="1.200" stroke-opacity="1.000" stroke-linecap="round" stroke-linejoin="round" d="M 526.013 513.496 L 446.328 451.560 L 412.859 375.647 L 430.503 271.071 L 499.972 224.218 L 594.028 201.348 L 673.656 267.651 L 710.747 343.856 L 685.719 449.512 L 620.867 494.260 Z"></path>
+    <path opacity="1.000" fill="none" stroke="#000000" stroke-width="1.200" stroke-opacity="1.000" stroke-linecap="round" stroke-linejoin="round" d="M 526.013 513.496 L 541.541 480.143 L 641.036 438.115 L 628.825 324.868 L 524.403 298.310 L 471.372 392.166 L 541.541 480.143 "></path>
+    <path opacity="1.000" fill="none" stroke="#000000" stroke-width="1.200" stroke-opacity="1.000" stroke-linecap="round" stroke-linejoin="round" d="M 412.859 375.647 L 471.486 392.685 "></path>
+    <path opacity="1.000" fill="none" stroke="#000000" stroke-width="1.200" stroke-opacity="1.000" stroke-linecap="round" stroke-linejoin="round" d="M 524.403 298.310 L 499.373 223.806 "></path>
+    <path opacity="1.000" fill="none" stroke="#000000" stroke-width="1.200" stroke-opacity="1.000" stroke-linecap="round" stroke-linejoin="round" d="M 628.825 324.868 L 673.770 268.170 "></path>
+    <path opacity="1.000" fill="none" stroke="#000000" stroke-width="1.200" stroke-opacity="1.000" stroke-linecap="round" stroke-linejoin="round" d="M 685.719 449.512 L 639.952 437.809 "></path>
+  </g>
+  <style>
+    .face { font: bold 90px sans-serif; }
+  </style>
+  <text x="530" y="420" class="face" transform="rotate(-20 575 465)">20</text>
+</svg>

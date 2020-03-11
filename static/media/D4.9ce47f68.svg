@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3in" height="3in" version="1.1" viewBox="273.622864 143.397644 360.203491 453.166077">
+  <g id="Pen" opacity="1.000">
+    <path opacity="1.000" fill="none" stroke="currentColor" stroke-width="4.816" stroke-opacity="1.000" stroke-linecap="round" stroke-linejoin="round" d="M 316.139 427.492 L 624.816 152.906 L 606.393 587.538 L 314.646 426.531 Z"></path>
+    <path opacity="1.000" fill="currentColor" stroke="currentColor" stroke-width="4.816" stroke-opacity="1.000" stroke-linecap="round" stroke-linejoin="round" d="M 316.139 427.492 L 624.816 152.906 L 284.378 322.523 L 315.181 427.196 Z"></path>
+  </g>
+  <style>
+    .face { font: bold 100px sans-serif; color: #000; }
+  </style>
+  <text x="480" y="380" class="face" rotate="30">4</text>
+</svg>

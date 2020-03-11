@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="314.905914 164.895447 393.147491 400.311523">
+    <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+        <path d="M322.742 216.096l281.993 10.56M604.735 226.656l84.747-50.987M428.142 172.329l261.34 3.34M322.742 216.096l105.4-43.767M613.47 557.568l-8.735-330.912M330.084 540.076l283.386 17.492M322.742 216.096l7.342 323.98M613.47 557.568l87.313-78.089M689.482 175.669l11.301 303.81"/>
+    </g>
+    <style>
+        .face { font: bold 120px sans-serif; }
+    </style>
+    <text x="445" y="420" class="face">6</text>
+</svg>
